@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     ListView listviewTraiCay ;
     // test git
     // aaaaaavvvv
+    // thay doi code tu` server to client 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
