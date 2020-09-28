@@ -11,7 +11,8 @@ public class MainActivity extends AppCompatActivity {
 
     ArrayList<TraiCay> traiCayList ;
     ListView listviewTraiCay ;
-
+    // test git
+    // aaaaaavvvv
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
